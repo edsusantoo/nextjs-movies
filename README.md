@@ -1,30 +1,33 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
-
-First, run the development server:
-
+```bash
+npm update
+```
 ```bash
 npm run dev
 # or
 yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Tech Stack
+* React
+* Next Js
+* SWR
+* TailwindCSS
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## List Tutorial
+* https://blog.logrocket.com/introduction-to-data-fetching-with-next-js-and-strapi-cms/ (Base tutorial)
 
-## Learn More
+* https://reacttricks.com/sharing-global-data-in-next-with-custom-app-and-usecontext-hook/ (Global State with Rect Context)
 
-To learn more about Next.js, take a look at the following resources:
+* https://www.smashingmagazine.com/2020/06/introduction-swr-react-hooks-remote-data-fetching/ (Introduction SWR for data fetch)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+* https://swr.vercel.app/docs/pagination (SWR Pagination)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+* https://levelup.gitconnected.com/improve-ux-of-your-next-js-app-in-3-minutes-with-page-loading-indicator-3a422113304d (Page loading indicator)
 
-## Deploy on Vercel
+* https://levelup.gitconnected.com/improve-ux-of-your-next-js-app-in-3-minutes-with-page-loading-indicator-3a422113304d (Custom Page loading indicator)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+* https://www.smashingmagazine.com/2020/04/skeleton-screens-react/ (Loading Skeleton)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+* https://slashgear.github.io/creating-an-image-lazy-loading-component-with-react/ (Placeholder image)

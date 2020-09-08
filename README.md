@@ -1,3 +1,5 @@
+## Live Demo
+[Demo](https://nextjs-movies.herokuapp.com/)
 
 ## Getting Started
 ```bash
@@ -31,3 +33,8 @@ yarn dev
 * https://www.smashingmagazine.com/2020/04/skeleton-screens-react/ (Loading Skeleton)
 
 * https://slashgear.github.io/creating-an-image-lazy-loading-component-with-react/ (Placeholder image)
+
+## Deploy to Heroku
+* https://github.com/mars/heroku-nextjs
+  
+* https://help.heroku.com/0KU2EM53/why-is-my-node-js-build-failing-because-of-conflicting-lock-files (fix deploy heroku)
